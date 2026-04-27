@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Phong Tran
-Highly skilled and innovative software development professional with 3 years of hands-on experience in web application development.
+Highly skilled and innovative software development professional with 4 years of hands-on experience in web application development.
 Focused and efficient learner with practical expertise in modern apps, seeking a full stack developer position with intellect.
 
 # 👀 I’m interested in ...
@@ -17,8 +17,9 @@ Full stack developer or Technical Architect specializing in website development!
 - React.js
 - Node.js
 - Vue.js
-- Angular.js
+- Mysql
 - MongoDB
+- TypeORM
 - RESTful APIs
 - Git
 - Typescript
